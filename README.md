@@ -9,10 +9,7 @@ https://drive.google.com/file/d/12aFpNTJIJXIbfM6caESP_XlHLGGezVDY/view?usp=shari
 Put ACN.tar into ./weights/ACN.tar and run demo.py
 
 Components
-- Face detection: pyramidbox
-  https://github.com/cs-giung/face-detection-pytorch
-- Attentnion mask generation: CPN
-  https://github.com/GengDavid/pytorch-cpn
-- Heatmap regression: DU-NET
-  https://github.com/zhiqiangdon/CU-Net
+- Face detection: pyramidbox, https://github.com/cs-giung/face-detection-pytorch
+- Attentnion mask generation: CPN, https://github.com/GengDavid/pytorch-cpn
+- Heatmap regression: DU-Net, https://github.com/zhiqiangdon/CU-Net
   
