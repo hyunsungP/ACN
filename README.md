@@ -19,6 +19,6 @@ Run demo.py
 
 Components:
 - Face detection: pyramidbox, https://github.com/cs-giung/face-detection-pytorch
-- Attentnion mask generation: CPN, https://github.com/GengDavid/pytorch-cpn
+- Attention mask generation: CPN, https://github.com/GengDavid/pytorch-cpn
 - Heatmap regression: DU-Net, https://github.com/zhiqiangdon/CU-Net
   
