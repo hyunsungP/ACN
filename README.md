@@ -3,13 +3,13 @@ Attentional Combination Network
 
 Face alignment with GUI
 
-You can download weights for ACN from the link below:
+You can download weights for ACN from the link:
 
 https://drive.google.com/file/d/12aFpNTJIJXIbfM6caESP_XlHLGGezVDY/view?usp=sharing
 
 Put ACN.tar into ./weights/ACN.tar 
 
-You can download weights for pyramidbox from the link below:
+You can download weights for pyramidbox from the link:
 
 https://github.com/cs-giung/face-detection-pytorch
 
