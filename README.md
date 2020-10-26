@@ -15,7 +15,7 @@ https://github.com/cs-giung/face-detection-pytorch
 
 Put pyramidbox_120000_99.02.pts into ./detectors/pyramidbox/weights/pyramidbox_120000_99.02.pth
 
-Run demo.py
+Run demo.py and open sample2.jpg
 
 Components:
 - Face detection: pyramidbox, https://github.com/cs-giung/face-detection-pytorch
