@@ -13,7 +13,7 @@ Put pyramidbox_120000_99.02.pts into ./detectors/pyramidbox/weights/pyramidbox_1
 
 Run demo.py
 
-Components
+Components:
 - Face detection: pyramidbox, https://github.com/cs-giung/face-detection-pytorch
 - Attentnion mask generation: CPN, https://github.com/GengDavid/pytorch-cpn
 - Heatmap regression: DU-Net, https://github.com/zhiqiangdon/CU-Net
