@@ -5,7 +5,7 @@ Face alignment with GUI
 
 You can download weights for ACN from the link:
 
-https://drive.google.com/file/d/12aFpNTJIJXIbfM6caESP_XlHLGGezVDY/view?usp=sharing
+https://drive.google.com/file/d/18KH6tF6C3gZnawjLMGH5we1BQg1SXooe/view?usp=sharing
 
 Put ACN.tar into ./weights/ACN.tar 
 
