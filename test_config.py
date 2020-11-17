@@ -9,7 +9,7 @@ def add_pypath(path):
 
 class Config:
     # ########################## Important setting. Check out this always.
-    model_path = 'weights/ACN2.tar'
+    model_path = 'weights/ACN2.pth'
     GPUs = '0'  # '0, 1' or '1, 3, 6' or '0, 1, 2, 3, 4, 5, 6, 7' or etc...
 
     # ########################### path setting
